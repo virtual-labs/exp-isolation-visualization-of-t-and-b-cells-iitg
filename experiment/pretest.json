@@ -2,37 +2,88 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Which of the following is not a type of T cell ?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Helper T-lymphocyte",
+        "b": "Cytotoxic T-lymphocyte",
+        "c": "Regulatory T-lymphocyte",
+        "d": "Plasma T-lymphocyte"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What does the ‘B’ in B cell stand for?",
+      "answers": {
+        "a": "Bone Marrow",
+        "b": "Bursa of Fabricius",
+        "c": "Beta",
+        "d": "Basophil"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which of the following is not produced by T cells?",
+      "answers": {
+        "a": "Antibodies",
+        "b": "Cytokines",
+        "c": "Perforin",
+        "d": "Granzyme"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "The B cells express what specific cell surface markers for their function?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "CD45+, CD3+",
+        "b": "CD45+, CD3+, CD4+",
+        "c": "CD45+, CD19+",
+        "d": "CD45+, CD3+, CD8+"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is the purpose of the variable region of the B cell receptor?",
+      "answers": {
+        "a": "To anchor the receptor to the surface of the cell",
+        "b": "To recognize and bind to specific antigens",
+        "c": "To facilitate signaling within the cell",
+        "d": "To protect the receptor from degradation"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]

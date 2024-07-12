@@ -2,35 +2,86 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "What is the first step in the isolation of lymphocytes from peripheral blood?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Layer the blood sample onto a density gradient medium",
+        "b": "Dilute collected blood with equal volume of PBS buffer",
+        "c": "Add an anticoagulant to the blood sample",
+        "d": "Centrifuge the blood sample at high speeds"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is the function of washing the isolated lymphocytes before staining with Leishman stain?",
+      "answers": {
+        "a": "To remove residual Ficoll Hypaque solution and Platelets",
+        "b": "To lyse the red blood cells",
+        "c": "To prevent the lymphocytes from adhering to the slide",
+        "d": "To enhance the staining of the lymphocytes"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "What is the principle of Leishman staining?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "It stains the cytoplasm of the cells",
+        "b": "It stains the nuclei of the cells",
+        "c": "It stains the cell membranes of the cells",
+        "d": "It stains the mitochondria of the cells"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which cell culture media is used to culture lymphocytes?",
+      "answers": {
+        "a": "DMEM",
+        "b": "MacConkey Agar",
+        "c": "LB broth",
+        "d": "RPMI 1640"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "How do lymphocytes appear upon Leishman staining?",
+      "answers": {
+        "a": "Pale pink cytoplasm with dark blue nuclei and orange-red granules",
+        "b": "Pink-Red",
+        "c": "Blue cytoplasm with dark purple nuclei",
+        "d": "Purple cytoplasm with dark blue nuclei"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
