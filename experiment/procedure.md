@@ -5,13 +5,13 @@ The most common process for lymphocyte isolation is density gradient centrifugat
 #### ISOLATION OF MONONUCLEAR CELLS<br>
 * Dilute collected blood with equal volume of PBS buffer (phosphate-buffered saline) in a 10-15 mL centrifuge tube.
 * Carefully overlay the diluted blood on the Ficoll-Hypaque without mixing.
-<br><img src="images/img1.png" alt="image" width="300" height="300">
+<br><div style="text-align: center;"><img src="images/img1.png" alt="image" width="300" height="300"></div>
 
 * Centrifuge the blood-Ficoll-Hypaque solution for 30 minutes at low speed (1800 RPM/400 RCF) at 4ᴼC, to separate the cells according to their cellular density.
-<br><img src="images/img2.png" alt="image" width="300" height="300">
+<br><div style="text-align: center;"><img src="images/img2.png" alt="image" width="300" height="300"></div>
 
 * Draw off the upper plasma layer using a clean pasteur pipette, leaving the mononuclear cell layer undisturbed at the interface.
-<br><img src="images/img3.png" alt="image" width="300" height="300">
+<br><div style="text-align: center;"><img src="images/img3.png" alt="image" width="300" height="300"></div>
 
 * Transfer the Buffy coat layer to a sterile centrifuge tube using a sterile pasteur pipette.
 
@@ -28,7 +28,7 @@ The most common process for lymphocyte isolation is density gradient centrifugat
 #### LYMPHOCYTE CULTURE
 
 * Suspend the cell pellet in 20 mL RPMI 1640 media containing 10% Fetal Bovine Serum(FBS), 1% penicillin/streptomycin, and 1 μg/mL phytohemagglutinin (PHA), in a T-75 culture flask.
-<br><img src="images/img4.png" alt="image" width="300" height="300">
+<br><div style="text-align: center;"><img src="images/img4.png" alt="image" width="300" height="300"></div>
 
 
 * Incubate at 37°C and 5% CO2 for at least for a few hours. This step allows monocytes, which will be adherent to the flask surface, to be separated from the lymphocytes that remain in suspension.
@@ -45,7 +45,7 @@ The most common process for lymphocyte isolation is density gradient centrifugat
 * Rinse slides thoroughly with PBS for 2 minutes or until it acquires a purple-pinkish tinge.
 * Allow slides to air dry.
 * Examine under oil immersion in a microscope.
-<br><img src="images/img5.png" alt="image" width="300" height="300">
+<br><div style="text-align: center;"><img src="images/img5.png" alt="image" width="300" height="300"></div>
 
 * Lymphocytes are stained blue, with a dark purple nucleus.
-<br><img src="images/img5.png" alt="image" width="300" height="300">
+<br><div style="text-align: center;"><img src="images/img5.png" alt="image" width="300" height="300"></div>
