@@ -1,0 +1,175 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1. What is the first step in the isolation of lymphocytes from peripheral blood?",
+      "answers": {
+        "a": "Layer the blood sample onto a density gradient medium",
+        "b": "Dilute collected blood with equal volume of PBS buffer",
+        "c": "Add an anticoagulant to the blood sample",
+        "d": "Centrifuge the blood sample at high speeds"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2. What is the function of washing the isolated lymphocytes before staining with Leishman stain?",
+      "answers": {
+        "a": "To remove residual Ficoll Hypaque solution and Platelets",
+        "b": "To lyse the red blood cells",
+        "c": "To prevent the lymphocytes from adhering to the slide",
+        "d": "To enhance the staining of the lymphocytes"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3. What is the principle of Leishman staining?",
+      "answers": {
+        "a": "It stains the cytoplasm of the cells",
+        "b": "It stains the nuclei of the cells",
+        "c": "It stains the cell membranes of the cells",
+        "d": "It stains the mitochondria of the cells"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4. Which cell culture media is used to culture lymphocytes?",
+      "answers": {
+        "a": "DMEM",
+        "b": "MacConkey Agar",
+        "c": "LB broth",
+        "d": "RPMI 1640"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "5. How do lymphocytes appear upon Leishman staining?",
+      "answers": {
+        "a": "Pale pink cytoplasm with dark blue nuclei and orange-red granules",
+        "b": "Pink-Red",
+        "c": "Blue cytoplasm with dark purple nuclei",
+        "d": "Purple cytoplasm with dark blue nuclei"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "6. What is the purpose of using EDTA when collecting whole blood for lymphocyte isolation?",
+      "answers": {
+        "a": "To lyse the red blood cells",
+        "b": "To promote coagulation",
+        "c": "To avoid coagulation",
+        "d": "To fix cells"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "7. What is the 'Buffy coat' layer primarily composed of after centrifugation?",
+      "answers": {
+        "a": "Red blood cells",
+        "b": "Platelets",
+        "c": "Plasma",
+        "d": "Mononuclear cells"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "8. What is the role of memory B or T cells?",
+      "answers": {
+        "a": "To initiate an immediate immune response upon re-exposure to the same antigen",
+        "b": "To present antigens to naive B and T cells",
+        "c": "To secrete antibodies continuously",
+        "d": "To regulate cytokine production"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "9. Which of the following is true about B-cell receptors (BCR)?",
+      "answers": {
+        "a": "They have a single antigen-binding region.",
+        "b": "They are composed of Igα/Igβ heterodimers and membrane immunoglobulin.",
+        "c": "They recognize antigens processed by MHC.",
+        "d": "They do not undergo clonal expansion."
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "10. Why is it important to avoid mixing the diluted blood with Ficoll-Hypaque during the layering step?",
+      "answers": {
+        "a": "To prevent contamination",
+        "b": "To maintain the density gradient for effective cell separation",
+        "c": "To enhance cell proliferation",
+        "d": "To promote staining"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  ]
+}
