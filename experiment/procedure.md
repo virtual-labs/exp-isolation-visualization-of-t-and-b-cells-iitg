@@ -49,3 +49,10 @@ The most common process for lymphocyte isolation is density gradient centrifugat
 
 * Lymphocytes are stained blue, with a dark purple nucleus.
 <br><div style="text-align: center;"><img src="images/img5.png" alt="image" width="300" height="300"></div>
+
+<br><br>
+<div style="display: flex; justify-content: center; align-items: center;">
+  <figure class="video_container" style="width: 600px; height: 350px;">
+    <iframe style="width: 100%; height: 100%;" src="https://www.youtube.com/embed/videoseries?si=5b1Ktc5NIRCpMxIT&amp;list=PLTkVi3dAX_-9Qmm3P5HxtW1kAeHtSt9lW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  </figure>
+</div>
